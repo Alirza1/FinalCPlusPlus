@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\alirz\Desktop\project_c\Course Work w2\Meals.h(584,13): warning C4101: 'opt2': unreferenced local variable
+C:\Users\alirz\Desktop\project_c\Course Work w2\Meal Functions.h(76,10): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\alirz\Desktop\project_c\Course Work w2\Meal Functions.h(152,10): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\alirz\Desktop\project_c\Course Work w2\Meal Functions.h(198,10): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\alirz\Desktop\project_c\Course Work w2\Meal Functions.h(241,10): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\alirz\Desktop\project_c\Course Work w2\Meal Functions.h(281,10): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\alirz\Desktop\project_c\Course Work w2\Meal Functions.h(331,10): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\alirz\Desktop\project_c\Course Work w2\Meal Functions.h(393,10): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\alirz\Desktop\project_c\Course Work w2\Meal Functions.h(440,10): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\alirz\Desktop\project_c\Course Work w2\Meal Functions.h(490,10): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\alirz\Desktop\project_c\Course Work w2\Meal Functions.h(555,10): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\alirz\Desktop\project_c\Course Work w2\Source.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Course Work w2.vcxproj -> C:\Users\alirz\Desktop\project_c\x64\Debug\Course Work w2.exe

@@ -1,0 +1,5 @@
+Error Code:Error 100 
+Error Source:C:\Users\alirz\Desktop\project_c\Course Work w2\Management Section.h 
+Error Line:138 
+Error Date:Jun  2 2022 
+Error Time:17:49:54 

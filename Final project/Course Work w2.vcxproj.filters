@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ExceptionClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Meals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Stock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Meal Functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Table.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Management Section.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Kitchen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ErrorLog.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="CriticalNotificationLog.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="ordersFromTableNo1.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="ordersFromTableNo2.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="ordersFromTableNo3.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="ordersFromTableNo4.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="ordersFromTableNo5.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="ordersFromTableNo6.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="ordersFromTableNo7.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="ordersFromTableNo8.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="ordersFromTableNo9.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="ordersFromTableNo10.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="ProgramLog.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="tikeKebab.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="tiramisu.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="uchBaciDolmasi.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="vealTongue.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="vegetableAssort.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="xangal.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="yarpaqDolmasi.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="antrikotKebab.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="appleJuice1l.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="belugaKebab.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="blackCaviar.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="blinchik.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="broiledLamb.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="capitalSalad.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="cheeseCake.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="cheeseQutab.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="chickenSalad.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="chickenSoup.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="cocaCola0.5l.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="cocaCola1l.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="dovga.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="dushbara.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="fanta0.5l.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="fanta1l.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="greenQutab.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="gurza.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="hotChocolateCake.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="ketchupSauce.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="kingPilaf.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="kingSalad.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="langet.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="luleKebab.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="mayonnaiseSauce.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="meatQutab.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="merci.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="mimosaSalad.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="mixedFruit1l.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="mushroomSoup.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="noodle.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="orangeJuice1l.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="pawn1.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="pawn2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="pikeperchKebab.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="pomegranateSauce.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="pumpkinPilaf.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="pumpkinQutab.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="redCaviar.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="sabziPilaf.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="salmonKebab.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="sprite0.5l.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="sprite1l.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="sturgeonKebab.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="sweetPilaf.png">
+      <Filter>Source Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
